@@ -288,18 +288,6 @@
         "rightIcon": "download"
       }
     ],
-    "arrangerConfig": {
-      "projectId": "search",
-      "graphqlField": "case",
-      "index": "",
-      "manifestMapping": {
-        "resourceIndexType": "file",
-        "resourceIdField": "object_id",
-        "referenceIdFieldInResourceIndex": "case_id",
-        "referenceIdFieldInDataIndex": "case_id"
-      },
-      "nodeCountField": "case_id"
-    },
     "getAccessButtonLink": "https://dbgap.ncbi.nlm.nih.gov/"
   }
 }
